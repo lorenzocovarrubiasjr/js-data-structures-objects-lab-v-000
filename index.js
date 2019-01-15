@@ -1,4 +1,4 @@
 function drivers() {
-  driver = {name: undefined};
+  const driver = {name: undefined};
   return driver;
 }
