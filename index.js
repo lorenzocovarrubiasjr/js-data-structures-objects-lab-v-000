@@ -1,2 +1,2 @@
-const driver = {name: undefined};
+const driver = {name: undefined, address: undefined};
 
