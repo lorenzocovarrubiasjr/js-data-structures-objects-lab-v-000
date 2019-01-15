@@ -1,5 +1,4 @@
 function drivers() {
-  driver = {a: b};
+  driver = {name: undefined};
   return driver;
 }
-
