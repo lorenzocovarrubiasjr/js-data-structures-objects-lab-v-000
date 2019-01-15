@@ -1,4 +1,1 @@
-function drivers() {
-  const driver = {key, value}
-  return driver
-}
+driver = {a: b};
