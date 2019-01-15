@@ -1,1 +1,4 @@
-driver = {a: b};
+function drivers() {
+  driver = {a: b};
+}
+
