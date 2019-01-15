@@ -1,3 +1,4 @@
 function drivers() {
-  return driver = {name: undefined};
+  const driver = {name: undefined};
+  return typeof driver
 }
